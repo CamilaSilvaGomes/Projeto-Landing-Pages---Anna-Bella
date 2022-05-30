@@ -1,2 +1,2 @@
 # Projeto-Landing-Pages---Anna-Bella
-Página publicitária feito com HTML e CSS.
+Página publicitária feita pelo Sublime Text 3, utilizando: HTML e CSS.
