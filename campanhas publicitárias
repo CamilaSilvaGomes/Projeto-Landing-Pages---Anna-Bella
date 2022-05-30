@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Anna Bella Oficial</title>
+		<meta charset="utf-8">
+
+		<link rel="stylesheet" type="text/css" 
+		href="estilo.css">
+
+	</head>	
+		
+	<body>
+		<div id="principal">
+			
+			<img src="imagens/capa.png">
+
+			<div id="menu">
+				<a href="index.html">HOME</a> | 
+				<a href="biografia.html">BIOGRAFIA</a> |
+				<a href="campanhas-publicitarias.html">CAMPANHAS PUBLICITÁRIAS</a> |
+				<a href="contato.html">CONTATO</a> 
+				<!-- criando os links do site -->
+				
+			</div>
+
+			<div id="conteudo"> <!-- div início do conteúdo -->
+
+				<h1>Campanhas publicitárias</h1>
+
+				<p>Lorem ipsum dolor sit amet consectetur adipiscing elit maecenas taciti justo mus, metus torquent feugiat placerat convallis nam fames aenean lobortis risus, senectus dictumst habitant magna fusce tortor nullam imperdiet enim hac. Efficitur conubia taciti himenaeos vivamus adipiscing scelerisque, donec orci feugiat ultrices potenti felis, aenean lacinia facilisis varius hendrerit. 
+				</p>
+
+				<img src="imagens/foto1.png" class="img-campanha">
+
+				<p>Varius cursus maecenas blandit elit augue ante donec purus, ornare sollicitudin egestas nulla consectetur tincidunt in ac, ullamcorper lorem scelerisque nunc malesuada faucibus pretium. Tempus nascetur dapibus malesuada odio vel sit interdum sagittis, feugiat dis pulvinar ac enim senectus scelerisque ligula netus, hendrerit eu efficitur eget laoreet nec nulla.
+				</p>
+
+				<img src="imagens/foto2.png" class="img-campanha">
+
+				<p>Pharetra vel scelerisque quam maximus pretium a purus habitant lorem nulla elit integer, accumsan consectetur gravida morbi finibus nisi tristique inceptos ullamcorper malesuada torquent. Imperdiet justo nisi ullamcorper tempor praesent litora dolor massa, quam integer convallis suscipit cursus etiam metus elementum, mollis vel primis ultrices erat mi fringilla. 
+				</p>
+
+				<img src="imagens/foto3.png" class="img-campanha">
+
+				<p>Euismod etiam ad arcu egestas metus feugiat, habitasse suspendisse primis curae dis cursus dapibus, gravida mollis quam vulputate aenean. Vehicula nostra ligula platea hac suscipit senectus, pellentesque himenaeos mollis class nullam orci, erat pulvinar tincidunt inceptos ad. Eleifend porttitor nascetur arcu risus ridiculus himenaeos nam efficitur potenti morbi curabitur posuere feugiat, facilisi massa aptent platea sociosqu cras tempus aliquet metus inceptos lacinia. Tincidunt eros himenaeos nec ligula risus integer vulputate natoque malesuada, elementum varius fames rhoncus torquent pharetra sodales.
+				</p>
+
+
+			</div> 
+
+			<div id="rodape">
+
+				<h4 class="centralizar">Todos os direitos reservados</h4>
+
+			</div>
+
+		</div> <!-- div fim do conteúdo -->
+
+
+	</body>
+
+
+
+</html>
